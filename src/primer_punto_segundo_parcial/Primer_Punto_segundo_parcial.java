@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author martin cantillo
+ * @author Martin Cantillo
  */
 public class Primer_Punto_segundo_parcial {
     Scanner entrada = new Scanner(System.in);
